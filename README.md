@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CaroKershaw
+- 👀 I’m interested in font end development using DevExtreme
+- 🌱 I’m currently learning popup editing using the Dev Extreme DataGrid
+- 💞️ I’m looking to work together with UI/UX specialists to create a unified user experience across all our products
