@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CaroKershaw
 - 👀 I’m interested in fontend development using DevExtreme
-- 🌱 I’m currently learning popup editing using the DevExtreme DataGrid
+- 🌱 I’m currently learning different types of editing using the DevExtreme DataGrid
 - 💞️ I’m looking to work together with UI/UX specialists to create a unified user experience across all our products
