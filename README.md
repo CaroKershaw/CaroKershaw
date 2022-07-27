@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaroKershaw
-- 👀 I’m interested in fontend development using DevExtreme
-- 🌱 I’m currently learning different types of editing using the DevExtreme DataGrid
+- 👋 Hi, I’m Caroline Kershaw
+- 👀 I’m interested in frontend development especially using Angular and Vue.js
+- 🌱 I’m currently learning how to code using Vue.js version 2
 - 💞️ I’m looking to work together with UI/UX specialists to create a unified user experience across all our products
