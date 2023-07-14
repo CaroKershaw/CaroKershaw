@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Caroline Kershaw
-- 👀 I’m interested in frontend development especially using Vue.js and Angular
-- 🌱 I’m currently learning Vue 2, Vuetify and Storybook
-- 💞️ I’m looking to work together with UI/UX specialists to create a unified user experience across all our products
+- 👀 I’m interested in frontend development using Angular
+- 🌱 I’m currently working with npx-charts
+- 💞️ I’m looking to work together with other developers to create a unified user experience across all our products
