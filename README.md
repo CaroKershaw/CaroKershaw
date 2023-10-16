@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Caroline Kershaw
-- 👀 I’m interested in software development using Angular, C#, .NET
+- 👀 I’m interested in software development using JavaScript, TypeScript, Angular, Vue.JS, C#, .NET
 - 🌱 I’m currently working with npx-charts
 - 💞️ I’m looking to work together with other developers to create a unified user experience across all our products
