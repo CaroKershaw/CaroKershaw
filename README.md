@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Caroline Kershaw
-- 👀 I’m interested in software development using JavaScript, TypeScript, Angular, Vue.JS, C#, .NET
-- 🌱 I’m currently working with npx-charts
+- 👀 I’m interested in software development using JavaScript, TypeScript, Angular, C#, ASP.NET Core MVC
+- 🌱 I’m currently developing a Supplier website for Calendar Club using Angular 17 and ASP.NET Core MVC 8.0
 - 💞️ I’m looking to work together with other developers to create a unified user experience across all our products
